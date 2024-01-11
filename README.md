@@ -36,19 +36,19 @@ This project aims to explore the Shortest Path problem and implement two popular
   
 
 ## Usage
-Run the ShortestPathApp class for the JavaFX application.
-Input source and destination cities, choose the algorithm, and click "Find Shortest Path."
-Alternatively, run the ShortestPathFinder class for the command-line interface.
+- Run the ShortestPathApp class for the JavaFX application.
+- Input source and destination cities, choose the algorithm, and click "Find Shortest Path."
+- Alternatively, run the ShortestPathFinder class for the command-line interface.
 
 
 
 
 ## Project Structure
 
-**src/shortestpath/CityGraph.java**: Represents the network of cities and distances.
-**src/shortestpath/CsvReader.java**: Reads city and distance data from a CSV file.
-**src/shortestpath/ShortestPathApp.java**: JavaFX application for the graphical interface.
-**src/shortestpath/ShortestPathFinder.java**: Command-line interface for interacting with the application.
+- **src/shortestpath/CityGraph.java**: Represents the network of cities and distances.
+- **src/shortestpath/CsvReader.java**: Reads city and distance data from a CSV file.
+- **src/shortestpath/ShortestPathApp.java**: JavaFX application for the graphical interface.
+- **src/shortestpath/ShortestPathFinder.java**: Command-line interface for interacting with the application.
 
 
 
