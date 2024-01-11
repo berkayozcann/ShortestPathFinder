@@ -45,27 +45,10 @@ Alternatively, run the ShortestPathFinder class for the command-line interface.
 
 ## Project Structure
 
-`src/shortestpath/CityGraph.java`: Represents the network of cities and distances.
-`src/shortestpath/CsvReader.java`: Reads city and distance data from a CSV file.
-`src/shortestpath/ShortestPathApp.java`: JavaFX application for the graphical interface.
-`src/shortestpath/ShortestPathFinder.java`: Command-line interface for interacting with the application.
-
-
-## File Structure
-
-shortest-path-finder/
-│
-├── src/
-│   └── shortestpath/
-│       ├── CityGraph.java
-│       ├── CsvReader.java
-│       ├── ShortestPathApp.java
-│       └── ShortestPathFinder.java
-│
-├── resources/
-│   └── turkishcities.csv
-│
-└── README.md
+**src/shortestpath/CityGraph.java**: Represents the network of cities and distances.
+**src/shortestpath/CsvReader.java**: Reads city and distance data from a CSV file.
+**src/shortestpath/ShortestPathApp.java**: JavaFX application for the graphical interface.
+**src/shortestpath/ShortestPathFinder.java**: Command-line interface for interacting with the application.
 
 
 
