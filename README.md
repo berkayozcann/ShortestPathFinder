@@ -50,6 +50,15 @@ This project aims to explore the Shortest Path problem and implement two popular
 - **src/shortestpath/ShortestPathApp.java**: JavaFX application for the graphical interface.
 - **src/shortestpath/ShortestPathFinder.java**: Command-line interface for interacting with the application.
 
+## Data Source
+
+The project utilizes a CSV file containing information about cities and distances. The data file is located at:
+
+- [turkishcities.csv](./resources/turkishcities.csv)
+
+This CSV file is structured with city names in the first row and corresponding distances in the subsequent rows, forming a matrix of city distances.
+
+
 
 
 ## License
